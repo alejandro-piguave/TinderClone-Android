@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TinderClone</string>
+    <string name="try_again">Reintentar</string>
+    <string name="loading_error">Se ha producido un error. Comprueba la conexión en inténtalo de nuevo más tarde.</string>
+    <string name="sign_out">Cerrar sesión</string>
+</resources>

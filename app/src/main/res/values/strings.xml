@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TinderClone</string>
+    <string name="web_client_id" translatable="false">447373733412-3dj19khgu8ojb02ldlduq5om2ilp11lg.apps.googleusercontent.com</string>
+    <string name="try_again">Try again</string>
+    <string name="loading_error">An error has occurred. Please check your connection to the internet and try again later.</string>
+    <string name="sign_out">Sign out</string>
+
+</resources>
